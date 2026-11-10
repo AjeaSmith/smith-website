@@ -2,7 +2,7 @@
 
 My personal portfolio site: a fast, one-page showcase of my projects and the tools I work with.
 
-**Live site:** https://YOUR-SITE-URL
+**Live site:** https://smith-dev-steel.vercel.app/
 
 ## Tech stack
 

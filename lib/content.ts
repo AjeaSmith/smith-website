@@ -8,7 +8,7 @@ export const profile = {
 	links: {
 		github: "https://github.com/ajeasmith",
 		linkedin: "https://www.linkedin.com/in/ajeasmith",
-		email: "smithajea@rocketmail.com",
+		email: "mailto:smithajea@rocketmail.com",
 	},
 };
 
