@@ -4,7 +4,7 @@ export const profile = {
 	title: "Full-stack web developer",
 	location: "Ypsilanti, Michigan",
 	intro:
-		"I build fast, well-structured web apps with React, Next.js, and TypeScript. Self-taught, and focused on the details that make an app hold up in real use: data modeling, timezones, auth, and notifications.",
+		"I'm a web developer who enjoys building clean, reliable apps from front end to back end. I work mostly with React, Next.js, and TypeScript, with Supabase on the back end, and I'm always learning more. Take a look at what I've built below, and feel free to get in touch.",
 	links: {
 		github: "https://github.com/ajeasmith",
 		linkedin: "https://www.linkedin.com/in/ajeasmith",
